@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="WP8_LiveTiles" EntryPointType="WP8_LiveTiles.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="WP8_LiveTiles" Source="WP8_LiveTiles.dll" />
+  </Deployment.Parts>
+</Deployment>
